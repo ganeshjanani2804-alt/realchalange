@@ -1,0 +1,6 @@
+{
+  "name": "PraxisForge - Real-World Challenge PM Hub",
+  "description": "Executive PM Playbook, zero-code pilot blueprint, risk register, and challenge bank for undergraduate engineering work-integrated learning in Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
